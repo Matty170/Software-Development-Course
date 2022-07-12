@@ -1,0 +1,12 @@
+Step 1:
+Download Sourcetreee
+Step 2:
+Read article 
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20is%20a%20legacy%20Git,software%20development%20and%20DevOps%20practices.
+Step 3:
+Use Sourcetree to setup repo in gitflow style
+Step 4:
+Once you have the structure in github, let me know
+master
+develop
+feature/initial
